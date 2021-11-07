@@ -13,4 +13,14 @@
     Video playback: up to 13 hours\n
     Audio playback (via headset): up to 110 hours\n
     Fast charging: up to 7 hours of use from only 15 minutes of charging</string>
+    <string name="beli">Beli</string>
+    <string name="seller_name">Almer Andika</string>
+    <string name="selled_by">Dijual oleh</string>
+    <string name="battery">Battery</string>
+    <string name="label_spesifikasi">Spesifikasi</string>
+    <string name="stock">Stok hanya 5 buah</string>
+    <string name="price">$735</string>
+    <string name="total_photo">6 Photos</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
 </resources>
